@@ -31,3 +31,24 @@ Create a `Book` model with the following fields:
 **Expected Result:**
 
 A working Django MVT application that performs Create, Read, Update, and Delete operations on book records using Django ORM.
+## Output
+### 1.Add Book
+![Add Book](output1.png)
+
+### 2.Book List
+![Book List](output2.png)
+
+### 3.Update Price
+![Update Page](output3.png)
+
+### 4.After update
+![After update](output4.png)
+
+### 5.Delete Confirmation
+![Delete Page](output5.png)
+
+### 6.After Delete
+![After Delete](output6.png)
+
+### 7.Terminal
+![Terminal](output7.png)
